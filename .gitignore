@@ -1,0 +1,6 @@
+
+*.xml
+/.idea
+/cogs/__pycache__
+/views/__pycache__
+config.ini
